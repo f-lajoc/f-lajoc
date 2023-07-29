@@ -12,7 +12,9 @@ I am a frontend developer who is passionate about creating clean and responsive 
 
 - JavaScript
 
-- Bootstrap 
+- Bootstrap
+
+- Tailwind CSS 
 
 # Projects
 
