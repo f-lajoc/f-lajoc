@@ -12,9 +12,9 @@ I am a frontend developer who is passionate about creating clean and responsive 
 
 - JavaScript
 
-- Bootstrap
+- Tailwind CSS
 
-- Tailwind CSS 
+- Technical Writing 
 
 # Projects
 
@@ -28,23 +28,29 @@ Here are some of the projects I have worked on:
 
 I am currently working on improving my skills in:
 
-- CSS frameworks like Bootstrap and Tailwind CSS
+- CSS frameworks like Tailwind CSS
 
 - Animation
 
 - Responsive design principles
 
-- JavaScript 
+- JavaScript
+
+- Git Version Control 
+
+- Technical Writing 
 
 # Connect with me
 
-linkedIn: [https://www.linkedin.com/in/funmilola-b-b4044b13b]
+linkedIn: [Bolaji Funmilola](https://www.linkedin.com/in/funmilola-b-b4044b13b)
 
-Twitter : [https://www.twitter.com/lajoc__]
+Twitter : [lajoc__](https://www.twitter.com/lajoc__)
 
-Instagram - [https://www.instagram.com/lajoc_devs]
+Instagram - [lajoc_devs](https://www.instagram.com/lajoc_devs)
 
-Email: [bolajifunmilola2017@gmail.com]
+Email: [Bolaji Funmilola](bolajifunmilola2017@gmail.com)
+
+Medium: [Funmi Lajoc](https://medium.com/@lajoc_)
 
 # Contributing
 
