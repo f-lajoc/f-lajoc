@@ -2,7 +2,7 @@
 # About me
 **Hi there, I'm lajoc_devs 👋**
 
-I am a frontend developer who is passionate about creating clean and responsive user interfaces. I have experience with HTML, CSS, and currently learning JavaScript, and I'm always looking to learn more about web development.
+I am a frontend developer who is passionate about creating clean and responsive user interfaces. I have experience with HTML, CSS, JS and currently learning React, and I'm always looking to learn more about web development.
 
 # Skills
 
@@ -13,6 +13,8 @@ I am a frontend developer who is passionate about creating clean and responsive 
 - JavaScript
 
 - Tailwind CSS
+  
+- React*
 
 - Technical Writing 
 
@@ -28,15 +30,9 @@ Here are some of the projects I have worked on:
 
 I am currently working on improving my skills in:
 
-- CSS frameworks like Tailwind CSS
+- JavaScript API
 
-- Animation
-
-- Responsive design principles
-
-- JavaScript
-
-- Git Version Control 
+- React 
 
 - Technical Writing 
 
