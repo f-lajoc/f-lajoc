@@ -1,70 +1,103 @@
+# Hi there, I'm Bolaji (funmi_lajoc || lajoc_devs) 👋
 
-# About me
-**Hi there, I'm lajoc_devs 👋**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bolaji_Funmilola-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/funmilola-b-b4044b13b)
+[![Medium](https://img.shields.io/badge/Medium-Funmi_Lajoc-000000?style=flat-square&logo=medium)](https://medium.com/@lajoc_)
+[![Twitter](https://img.shields.io/badge/Twitter-lajoc__-1DA1F2?style=flat-square&logo=twitter)](https://www.twitter.com/lajoc__)
+[![Email](https://img.shields.io/badge/Email-bolajifisayo80@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:bolajifisayo80@gmail.com)
 
-I am a Frontend Developer with a passion for building clean, responsive, and user-centric web applications. My technical toolkit includes HTML5, CSS3, JavaScript (ES6+), and React.js, complemented by a background in technical writing that allows me to document complex processes clearly.
+---
 
-With a foundation in biological sciences, I bring a unique analytical perspective to problem-solving and code architecture. I thrive at the intersection of logic and design, ensuring that every project I touch is both functional and aesthetically polished.
+## About Me
 
-Core Tech: React, JavaScript, Tailwind CSS, Git.
-Currently: Open to impactful Frontend roles and technical collaborations.
+I'm a **Frontend Developer and Technical Writer** who bridges the gap between building products and explaining them clearly.
 
-# Skills
+I write clean, responsive web interfaces — and the documentation that makes them usable. That means I'm useful at every stage of a product lifecycle, from the first commit to the final user guide.
 
-- HTML
+My stack spans **HTML5, CSS3, JavaScript (ES6+), React, and Django**. My writing work covers developer docs, READMEs, API guides, and content for technical audiences. A degree in Biological Sciences keeps my problem-solving systematic and detail-oriented.
 
-- CSS
+> 🔍 Currently open to **Frontend Developer**, **Technical Writer**, and **Developer Advocate** roles.
 
-- JavaScript
+---
 
-- Tailwind CSS
-  
-- React (In Progress)
-  
-- SASS
-  
-- Git
+## 🛠 Skills
 
-- Technical Writing 
+**Frontend Development**
 
-# Projects
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-In_Progress-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-Here are some of the projects I have worked on:
+**Technical Writing**
 
-- **Myra Landing Page:** A responsive website to search for work, built using HTML, CSS, CSS Animation,JS & bootstrap and I also tried out embedding a site.
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![Docs as Code](https://img.shields.io/badge/Docs--as--Code-4A90D9?style=flat-square)
+![API Docs](https://img.shields.io/badge/API_Documentation-FF6B35?style=flat-square)
+![Medium](https://img.shields.io/badge/Technical_Articles-000000?style=flat-square&logo=medium)
 
-- **Cocokitchen:** A Simple website with nav bar & hamburger menu, login page and forget password that generates OTP, built using Semantic HTML5 markup,  Flexbox, JavaScript, Media query.
+---
 
-# Learning Goals
+## 🚀 Projects
 
-I am currently working on improving my skills in:
+### [AfriBlog](https://github.com/f-lajoc)
+> Full-stack Django community blogging platform celebrating African writers.
 
-- JavaScript API
+Built with a custom African-inspired design system, dark/light mode toggle, user authentication, and full CRUD functionality. A full-stack project from architecture to deployment.
 
-- React 
+`Django` `Python` `CSS3` `JavaScript` `Authentication` `CRUD`
 
-- Technical Writing 
+---
 
-# Connect with me
+### EventEase
+> Frontend vendor-planner platform for connecting event professionals.
 
-linkedIn: [Bolaji Funmilola](https://www.linkedin.com/in/funmilola-b-b4044b13b)
+Built collaboratively with Team Nairobi. Clean, responsive UI for matching event vendors with planners, complete with a full README documenting the build process.
 
-Twitter : [lajoc__](https://www.twitter.com/lajoc__)
+`HTML5` `CSS3` `JavaScript` `Responsive Design` `Team Collaboration`
 
-Instagram - [lajoc_devs](https://www.instagram.com/lajoc_devs)
+---
 
-Email: [Bolaji Funmilola](bolajifunmilola2017@gmail.com)
+### Myra Landing Page
+> Responsive job-search landing page.
 
-Medium: [Funmi Lajoc](https://medium.com/@lajoc_)
+`HTML` `CSS Animations` `JavaScript` `Bootstrap`
 
-# Contributing
+---
 
-I attach readMe file to my projects talking about my processes, troubles, solutions and resources that I find helpful.
+### CocoKitchen
+> Multi-page restaurant site with auth flow and OTP-based password recovery.
 
-If you have any suggestions or improvements for any of my projects, please feel free to submit a pull request or open an issue.
+`Semantic HTML5` `Flexbox` `JavaScript` `Media Queries`
 
-Thanks for checking out my profile!
+---
 
-Vielen Dank 🤗
+## 📚 Currently Learning
 
- 
+- ⚛️ React.js — advanced patterns & hooks
+- 🌐 JavaScript APIs
+- 📝 API documentation writing & style guides
+- 📽️ Framer Motion
+- 👩‍💻 Django
+
+---
+
+## ✍️ Writing
+
+I document my projects thoroughly — processes, blockers, solutions, and the resources that helped. Check the READMEs across my repos for a sample of my technical writing in the wild.
+
+I also publish on [Medium](https://medium.com/@lajoc_) for longer-form technical content.
+
+---
+
+## 🤝 Contributing
+
+Spotted something to improve in any of my repos? PRs and issues are always welcome. Let's build something better together.
+
+---
+
+Thanks for stopping by. Vielen Dank 🤗
