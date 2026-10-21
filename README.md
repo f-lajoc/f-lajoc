@@ -1,9 +1,9 @@
-# Hi there, I'm Bolaji (funmi_lajoc || lajoc_devs) 👋
+# Hi there, I'm Bolaji Funmilola (lajoc_devs) 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bolaji_Funmilola-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/funmilola-b-b4044b13b)
 [![Medium](https://img.shields.io/badge/Medium-Funmi_Lajoc-000000?style=flat-square&logo=medium)](https://medium.com/@lajoc_)
-[![Twitter](https://img.shields.io/badge/Twitter-lajoc__-1DA1F2?style=flat-square&logo=twitter)](https://www.twitter.com/lajoc__)
 [![Email](https://img.shields.io/badge/Email-bolajifisayo80@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:bolajifisayo80@gmail.com)
+[![Developer Portfolio](https://img.shields.io/badge/Developer-Portfolio-0A66C2?style=flat-square&logo=githubpages&logoColor=white)](https://funmilola.vercel.app/)
 
 ---
 
